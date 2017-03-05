@@ -303,9 +303,13 @@ We can see that filtering preserves most of the lane pixels (as desired) plus ad
 I use the following source and destination points found through experimentation:
 
 Source | 	Destination
+
 230,695 |	220, 720 
+
 578,458 |	220, 0
+
 704,458 |	1060, 0 
+
 1065,695 | 1060, 720 
 
 I verify that my perspective transform is working as expected by drawing the src and dst points onto a test image
