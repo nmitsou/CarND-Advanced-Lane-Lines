@@ -4,7 +4,7 @@
 
 Udacity - Self-Driving Car NanoDegree
 
-In this project, an advanced lane detection algorithm was impelemented. Below an overview of the pipeline and relevant results are presented. The ipython file with the corresponding code is the calibrate.py
+In this project, an advanced lane detection algorithm was impelemented. Below an overview of the pipeline and relevant results are presented. The ipython file with the corresponding code is the carnd-p4.ipynb
 
 ## Pipeline
 
@@ -748,7 +748,7 @@ print('Done!')
 ## Pipeline (video)
 ### Provide a link to your final video output. Your pipeline should perform reasonably well on the entire project video (wobbly lines are ok but no catastrophic failures that would cause the car to drive off the road!).
 
-Below you can find the code to generate the labeled video 
+The video files can be found in this github repo: https://github.com/nmitsou/CarND-Advanced-Lane-Lines/raw/master/challenge_video.mp4 Below you can find the code to generate the labeled video 
 
 
 ```python
